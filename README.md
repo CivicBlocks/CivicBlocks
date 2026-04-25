@@ -2,7 +2,7 @@
 
 An open source civic feedback platform for verified, registered Iowa voters to submit feedback on their elected representatives. An AI layer aggregates feedback into transparent geographic summaries by district and Census block group. Every verified voter gets equal weight.
 
-**Status:** Architecture complete, no production code deployed. Building toward an Iowa pilot of 500 verified users across 10+ legislative districts.
+**Status:** No production code deployed. Building toward an Iowa pilot of 500 verified users across 10+ legislative districts.
 
 **License:** MIT
 

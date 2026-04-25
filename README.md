@@ -36,7 +36,7 @@ These are non-negotiable. They are the product.
 3. **Radically public aggregates** — everything after the AI summarization layer is fully public. No account required.
 4. **Full transparency** — codebase, AI prompts, aggregation methodology, and privacy architecture are all open source and auditable.
 5. **Minimal footprint** — collect only what is necessary, retain only what is essential, delete completely when asked.
-6. **Voter file integrity** — the Iowa voter file is read-only. CivicBlocks never modifies it.
+6. **Voter file integrity** — the Iowa voter file is read-only. CivicBlocks never modifies it.  It is only used to match identities of Iowa voters.
 7. **One person, one voice** — one account per `voter_id`, enforced at the database level.
 
 ---
